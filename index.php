@@ -30,9 +30,7 @@
                         </form>
                      </div>
                 </div>
-                <div class="py-2">
-                    {{form}}
-                </div>
+                <br>
                 <table class="table">
                 <thead>
                     <tr>
